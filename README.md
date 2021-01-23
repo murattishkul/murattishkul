@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?murattishkul=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/murattishkul=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
 
 <!--
 **murattishkul/murattishkul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
