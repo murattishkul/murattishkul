@@ -5,6 +5,10 @@
 Full stack software enthusiast from 🇰🇿
 
 in love with React/TypeScript/NodeJS/RoR
+
+<a href="https://github.com/murattishkul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="murat" height="20" width="20" /></a>
+<a href="https://twitter.com/Murat63049789" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="murat" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/murattishkul/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/murattishkul/" height="20" width="20" /></a>
   
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=murattishkul)](https://github.com/LordDashMe/github-contribution-stats/)
 
